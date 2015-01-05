@@ -113,18 +113,18 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:027655_0000_0FD569FA5E9EF570"/>
-            <pb facs="tcp:027655_0001_0FD5696949E6F538"/>
+            <pb facs="unknown:027655_0000_0FD569FA5E9EF570"/>
+            <pb facs="unknown:027655_0001_0FD5696949E6F538"/>
             <p>SLAVES IN ALGIERS; OR, A STRUGGLE FOR FREEDOM: A PLAY, INTERSPERSED WITH SONGS, IN THREE ACTS.</p>
             <p>BY MRS. ROWSON.</p>
             <p>AS PERFORMED AT THE NEW THEATRES, IN PHILADELPHIA AND BALTIMORE.</p>
             <p>PHILADELPHIA: PRINTED FOR THE AUTHOR, BY WRIGLEY AND BERRIMAN, no. 149, CHESNUT-STREET. M, DCC, XCIV.</p>
             <p>
-               <pb facs="tcp:027655_0002_0FD5696D047AE960"/>
+               <pb facs="unknown:027655_0002_0FD5696D047AE960"/>
 COPY-RIGHT SECURED ACCORDING TO LAW.</p>
          </div>
          <div type="dedication">
-            <pb facs="tcp:027655_0003_0FD5696E8A1E87C8"/>
+            <pb facs="unknown:027655_0003_0FD5696E8A1E87C8"/>
             <p>TO THE CITIZENS OF THE UNITED STATES OF NORTH-AMERICA.</p>
             <p>THIS FIRST DRAMATIC EFFORT IS INSCRIBED,</p>
             <closer>
@@ -132,7 +132,7 @@ COPY-RIGHT SECURED ACCORDING TO LAW.</p>
             </closer>
          </div>
          <div type="preface">
-            <pb facs="tcp:027655_0004_0FD56970326F7408"/>
+            <pb facs="unknown:027655_0004_0FD56970326F7408"/>
             <head>PREFACE.</head>
             <p>
                <hi>IN</hi> offering the following pages to the public, I feel myself necessitated to apologize for the errors which I am fearful will be evident to the severe eye of criticism.</p>
@@ -140,14 +140,14 @@ COPY-RIGHT SECURED ACCORDING TO LAW.</p>
             <p>I feel myself extremely happy, in having an opportunity, thus publicly to acknowledge my ob<g ref="char:EOLhyphen"/>ligation to Mr. Reinagle, for the attention he manifested, and the taste and genius he dis<g ref="char:EOLhyphen"/>played in the composition of the music. I must also return my thanks to the Perfor<g ref="char:EOLhyphen"/>mers, who so readily accepted, and so ably supported their several characters: Since it was chiefly owing to their exertions, that the Play was received with such unbounded marks of appro<g ref="char:EOLhyphen"/>bation.</p>
             <p>Since the first performance, I have made some alterations; and flatter myself those alterations have improved it: But of that, as well as of its merits in general, I am content to abide the decision of a candid and indulgent Public.</p>
             <p>
-               <pb n="ii" facs="tcp:027655_0005_0FD56971B0167490"/>Some part of the plot is taken from the Story of the Captive, related by Cervantes, in his in<g ref="char:EOLhyphen"/>imitable Romance of Don Quixote, the rest is entirely the offspring of fancy.</p>
+               <pb n="ii" facs="unknown:027655_0005_0FD56971B0167490"/>Some part of the plot is taken from the Story of the Captive, related by Cervantes, in his in<g ref="char:EOLhyphen"/>imitable Romance of Don Quixote, the rest is entirely the offspring of fancy.</p>
             <p>I am fully sensible of the many disadvantges under which I consequently labour from a con<g ref="char:EOLhyphen"/>fined education; nor do I expect my style will be thought equal in elegance or energy, to the productions of those who, fortunately, from their sex, or situation in life, have been instructed in the Classics, and have reaped both pleasure and improvement by studying the Ancients in their original purity.</p>
             <p>My chief aim has been, to offer to the Public a Dramatic Entertainment, which, while it might excite a smile, or call forth the tear of sensibi<g ref="char:EOLhyphen"/>lity, might contain no one sentiment, in the least prejudicial, to the moral or political principles of the government under which I live. On the contrary, it has been my endeavour, to place the social virtues in the fairest point of view, and hold up, to merited contempt and ridicule, their opposite vices. If, in this attempt, I have been the least successful, I shall reap the reward to which I aspire, in the smiles and approbation of a Liberal Public.</p>
          </div>
       </front>
       <body>
          <div type="prologue">
-            <pb facs="tcp:027655_0006_0FD569731DC3A8D0"/>
+            <pb facs="unknown:027655_0006_0FD569731DC3A8D0"/>
             <head>PROLOGUE, To the New Comedy of SLAVES IN ALGIERS.</head>
             <byline>Written and Spoken by Mr. FENNELL.</byline>
             <lg>
@@ -183,7 +183,7 @@ COPY-RIGHT SECURED ACCORDING TO LAW.</p>
                <l>Each hand must give, and the quick sail unfurl'd,</l>
                <l>Must bear their ransom to the distant world.</l>
                <l>
-                  <pb facs="tcp:027655_0007_0FD56976472D43D8"/>Nor <hi>here</hi> alone, Columbia's sons be free,</l>
+                  <pb facs="unknown:027655_0007_0FD56976472D43D8"/>Nor <hi>here</hi> alone, Columbia's sons be free,</l>
                <l>
                   <hi>Where'er</hi> they breath there must be liberty.</l>
                <l>—There <hi>must!</hi> there <hi>is,</hi> for he who form'd the whole,</l>
@@ -225,7 +225,7 @@ COPY-RIGHT SECURED ACCORDING TO LAW.</p>
             </lg>
          </div>
          <div type="dramatis_personae">
-            <pb facs="tcp:027655_0008_0FD56977D25AC2D0"/>
+            <pb facs="unknown:027655_0008_0FD56977D25AC2D0"/>
             <head>DRAMATIS PERSONAE.</head>
             <list>
                <head>MEN.</head>
@@ -279,7 +279,7 @@ COPY-RIGHT SECURED ACCORDING TO LAW.</p>
             </list>
          </div>
          <div type="play">
-            <pb facs="tcp:027655_0009_0FD5697A887F5AA0"/>
+            <pb facs="unknown:027655_0009_0FD5697A887F5AA0"/>
             <head>SLAVES IN ALGIERS; OR, A STRUGGLE FOR FREEDOM.</head>
             <div n="1" type="act">
                <head>ACT I.</head>
@@ -297,7 +297,7 @@ COPY-RIGHT SECURED ACCORDING TO LAW.</p>
                   <sp>
                      <speaker>FETNAH.</speaker>
                      <p>O, a great many things—In the first place, I wish for liberty. Why do you talk of my being a favou<g ref="char:EOLhyphen"/>rite; is the poor bird that is confined in a cage (be<g ref="char:EOLhyphen"/>cause a favourite with its enslaver) consoled for the loss of freedom. No! tho' its prison is of golden wire, its food delicious, and it is overwhelm'd with caresses, its little heart still pants for liberty: gladly
-<pb n="6" facs="tcp:027655_0010_0FD569798BA260D8"/>
+<pb n="6" facs="unknown:027655_0010_0FD569798BA260D8"/>
 would it seek the fields of air, and even perched up<g ref="char:EOLhyphen"/>on a naked bough, exulting, carrol forth its song, nor once regret the splendid house of bondage.</p>
                   </sp>
                   <sp>
@@ -325,7 +325,7 @@ would it seek the fields of air, and even perched up<g ref="char:EOLhyphen"/>on 
                      <p>I don't care how I provoke him, if I can but make him keep his distance. You know I was brought here only a few days since—well, yesterday, as I was amusing myself, looking at the fine things I saw every where about me, who should bolt into the room, but that great, ugly thing Mustapha. What do you want, said I?—Most beautiful Fetnah, said he, bowing till the tip of his long, hooked nose almost ouched the toe of his slipper—most beautiful Fetnah, our power<g ref="char:EOLhyphen"/>ful and gracious master, Muley Moloc, sends me, the humblest of his slaves, to tell you, he will condescend to sup in your apartment to night, and commands you to receive the high honour with proper humility.</p>
                   </sp>
                   <sp>
-                     <pb facs="tcp:027655_0011_0FD5697ECA092B08"/>
+                     <pb facs="unknown:027655_0011_0FD5697ECA092B08"/>
                      <speaker>SELIMA.</speaker>
                      <p>Well—and what answer did you return.</p>
                   </sp>
@@ -356,7 +356,7 @@ would it seek the fields of air, and even perched up<g ref="char:EOLhyphen"/>on 
                   <sp>
                      <speaker>FETNAH.</speaker>
                      <p>So, mustering up as much courage as I could; great and powerful Muley, said I—I am sensible I am your
-<pb n="8" facs="tcp:027655_0012_0FD56980658E5970"/>
+<pb n="8" facs="unknown:027655_0012_0FD56980658E5970"/>
 slave; you took me from an humble state, placed me in this fine palace, and gave me these rich cloaths; you bought my person of my parents, who loved gold bet<g ref="char:EOLhyphen"/>ter than they did their child; but my affections you could not buy. I can't love you.—How! cried he, starting from his seat: how, can't love me?—and he laid his hand upon his scymetar.</p>
                   </sp>
                   <sp>
@@ -382,7 +382,7 @@ slave; you took me from an humble state, placed me in this fine palace, and gave
                   <sp>
                      <speaker>FETNAH.</speaker>
                      <p>No; she has no objection to any of their customs, except that of their having a great many wives at
-<pb n="9" facs="tcp:027655_0013_0FD569814A937D30"/>
+<pb n="9" facs="unknown:027655_0013_0FD569814A937D30"/>
 a time. But some few months since, my father, (who sends out many corsairs,) brought home a female cap<g ref="char:EOLhyphen"/>tive, to whom I became greatly attached; it was she, who nourished in my mind the love of liberty, and taught me, woman was never formed to be the abject slave of man. Nature made us equal with them, and gave us the power to render ourselves superior.</p>
                   </sp>
                   <sp>
@@ -414,7 +414,7 @@ a time. But some few months since, my father, (who sends out many corsairs,) bro
                            <l>'Twill wither, droop, and die.</l>
                         </lg>
                         <lg n="2">
-                           <pb n="10" facs="tcp:027655_0014_0FD56982E9F66A98"/>
+                           <pb n="10" facs="unknown:027655_0014_0FD56982E9F66A98"/>
                            <head>II.</head>
                            <l>So woman when by nature drest,</l>
                            <l>In charms devoid of art;</l>
@@ -444,7 +444,7 @@ a time. But some few months since, my father, (who sends out many corsairs,) bro
                      <l>The wreck of matter, or the crush of worlds.</l>
                      <stage>[Lays down the book.]</stage>
                      <p>Oh! blessed hope, I feel within myself, that spark of intellectual heavenly fire, that bids me soar above this mortal world, and all its pains or pleasures—its plea<g ref="char:EOLhyphen"/>sures! Oh!—long—long since I have been dead to all that bear the name.—In early youth—torn from the husband of my heart's election—the first only object of my love—bereft of friends cast on an unfeeling world, with only one poor stay, on which to rest the hope of future joy.—I have a son—my child! my dear Au<g ref="char:EOLhyphen"/>gustus—where are you now?—in slavery.—Grant me patience Heaven! must a boy born in Columbia, claiming liberty as his birth-right, pass all his days in slavery.—How often have I gazed upon his face, and fancied I could trace his father's features; how often
-<pb n="11" facs="tcp:027655_0015_0FD569875A6E3C40"/>
+<pb n="11" facs="unknown:027655_0015_0FD569875A6E3C40"/>
 have I listen'd to his voice, and thought his father's spirit spoke within him. Oh! my adored boy! must I no more behold his eyes beaming with youthful ar<g ref="char:EOLhyphen"/>dour, when I have told him, how his brave country<g ref="char:EOLhyphen"/>men purchased their freedom with their blood.— Alas! I see him now but seldom; and when we meet to think that we are slaves, poor, wretched slaves each serving different masters, my eyes o'erflow with tears.—I have but time to press him to my heart, en<g ref="char:EOLhyphen"/>treat just Heaven, to protect his life, and at some fu<g ref="char:EOLhyphen"/>ture day restore his liberty.</p>
                   </sp>
                   <stage>
@@ -470,7 +470,7 @@ have I listen'd to his voice, and thought his father's spirit spoke within him. 
                      <p>You likes mightily to be by yourself, but I must talk to you a little; I vantsh to know ven you think your ransom vil come, 'tis a long time, Mrs. Rebecca, and you knows.—</p>
                   </sp>
                   <sp>
-                     <pb n="12" facs="tcp:027655_0016_0FD56988EBD0FAE0"/>
+                     <pb n="12" facs="unknown:027655_0016_0FD56988EBD0FAE0"/>
                      <speaker>REBECCA.</speaker>
                      <p>Oh yes, I know, I am under many obligations to you, but I shall soon be able to repay them.</p>
                   </sp>
@@ -509,7 +509,7 @@ have I listen'd to his voice, and thought his father's spirit spoke within him. 
                      <p>But, my son.—Oh! Hassan; why did you suffer them to sell my child?</p>
                   </sp>
                   <sp>
-                     <pb n="13" facs="tcp:027655_0017_0FD5698A57720F58"/>
+                     <pb n="13" facs="unknown:027655_0017_0FD5698A57720F58"/>
                      <speaker>HASSAN.</speaker>
                      <p>I could not help it, I did all I could—but you knows I would not let you be sent to the Dey, I have kept you in my own house, at mine own expence,
 <stage>(aside)</stage>
@@ -546,7 +546,7 @@ What means the wretch.</p>
                      <p>Hold, Hassan; prostitute not the sacred word by applying it to licentiousness; the sons and daughters of liberty, take justice, truth, and mercy, for their leaders, when they list under her glorious banners.</p>
                   </sp>
                   <sp>
-                     <pb n="14" facs="tcp:027655_0018_0FD5698D77ACF9B8"/>
+                     <pb n="14" facs="unknown:027655_0018_0FD5698D77ACF9B8"/>
                      <speaker>BEN HASSAN.</speaker>
                      <p>Your friends will never ransom you.</p>
                   </sp>
@@ -567,7 +567,7 @@ What means the wretch.</p>
                      <speaker>BEN HASSAN</speaker>
                      <stage>—Solus.</stage>
                      <p>'Tis a very strange voman, very strange indeed; she does not know I got her pocket-book, with bills of exchange in it; she thinks I keep her in my house out of charity, and yet she talks about freedom and superi<g ref="char:EOLhyphen"/>ority, as if she was in her own country. 'Tis dev'lish hard indeed, when masters may not do what they please with their slaves. Her ransom arrived yesterday, but den she don't know it—Yesh, here is the letter; ran<g ref="char:EOLhyphen"/>som for Rebecca Constant, and six other Christian slaves; vell I vill make her write for more, she is my
-<pb n="15" facs="tcp:027655_0019_0FD5698EE71B1008"/>
+<pb n="15" facs="unknown:027655_0019_0FD5698EE71B1008"/>
 slave, I must get all I can by her. Oh, here comes that wild young Christian, Frederic, who ransom'd himself a few days since.</p>
                   </sp>
                   <stage>
@@ -609,7 +609,7 @@ for betraying you.</p>
 for my own interest.</p>
                   </sp>
                   <sp>
-                     <pb n="16" facs="tcp:027655_0020_0FD56993E430FBF0"/>
+                     <pb n="16" facs="unknown:027655_0020_0FD56993E430FBF0"/>
                      <speaker>FREDERIC.</speaker>
                      <p>You have convey'd provision to the cavern by the sea side, where I am to conceal the captives, to wait the arrival of the vessel.</p>
                   </sp>
@@ -647,7 +647,7 @@ Ven I can serve myself at the same time.</p>
                      <speaker>BEN HASSAN.</speaker>
                      <p>I'll tell you.</p>
                      <lg>
-                        <pb n="17" facs="tcp:027655_0021_0FD56994C9A953E0"/>
+                        <pb n="17" facs="unknown:027655_0021_0FD56994C9A953E0"/>
                         <head>
                            <note n="*" place="bottom">This song was not written by Mrs. Rowson.</note>SONG.</head>
                         <lg>
@@ -691,7 +691,7 @@ Ven I can serve myself at the same time.</p>
                      <p>Oh 'twas the safest way.</p>
                   </sp>
                   <sp>
-                     <pb n="18" facs="tcp:027655_0022_0FD56996486E10D8"/>
+                     <pb n="18" facs="unknown:027655_0022_0FD56996486E10D8"/>
                      <speaker>FREDERIC.</speaker>
                      <p>But Hassan, as you are so fond of cheating the Gen<g ref="char:EOLhyphen"/>tiles, perhaps you may cheat us.</p>
                   </sp>
@@ -730,7 +730,7 @@ by heaven you shall not live an hour after.— Go, look for a vessel, make every
                   </sp>
                </div>
                <div n="3" type="scene">
-                  <pb n="19" facs="tcp:027655_0023_0FD5699B64404DD0"/>
+                  <pb n="19" facs="unknown:027655_0023_0FD5699B64404DD0"/>
                   <head>SCENE III. Another Apartment at the Dey's.</head>
                   <stage>ZORIANA <hi>and</hi> OLIVIA.</stage>
                   <sp>
@@ -758,7 +758,7 @@ by heaven you shall not live an hour after.— Go, look for a vessel, make every
                      <p>We were; my father, by means of some jewels which he had concealed in his cloaths, bribed one of the guards to procure false keys to the apartments, but on the very night when we meant to put our plan in execution, the Dey, coming suddenly into the room, suprized my father in my arms.</p>
                   </sp>
                   <sp>
-                     <pb n="20" facs="tcp:027655_0024_0FD5699D28C73D50"/>
+                     <pb n="20" facs="unknown:027655_0024_0FD5699D28C73D50"/>
                      <speaker>ZORIANA.</speaker>
                      <p>Was not his anger dreadful?</p>
                   </sp>
@@ -791,7 +791,7 @@ by heaven you shall not live an hour after.— Go, look for a vessel, make every
                      <p>But how can we release my father.</p>
                   </sp>
                   <sp>
-                     <pb n="21" facs="tcp:027655_0025_0FD5699EB2E071D0"/>
+                     <pb n="21" facs="unknown:027655_0025_0FD5699EB2E071D0"/>
                      <speaker>ZORIANA.</speaker>
                      <p>Every method shall be tried to gain admittance to his prison; the Christian has many friends, and if all other means fail, they can force the door.</p>
                   </sp>
@@ -823,7 +823,7 @@ by heaven you shall not live an hour after.— Go, look for a vessel, make every
                   <sp>
                      <speaker>FREDERIC.</speaker>
                      <p>Fearing the old fellow would pocket our cash and betray us afterwards, I changed my plan, and have
-<pb n="22" facs="tcp:027655_0026_0FD569A1B1C24FD0"/>
+<pb n="22" facs="unknown:027655_0026_0FD569A1B1C24FD0"/>
 entrusted the money with a Spaniard, who will make the best bargain he can for us: have you tried our friends, will they be staunch?</p>
                   </sp>
                   <sp>
@@ -861,7 +861,7 @@ entrusted the money with a Spaniard, who will make the best bargain he can for u
                      <p>Can I believe my eyes; here are English charac<g ref="char:EOLhyphen"/>ters; and, but I think 'tis impossible, I should say, this was my Olivia's writing.</p>
                   </sp>
                   <sp>
-                     <pb n="23" facs="tcp:027655_0027_0FD569A30947BB80"/>
+                     <pb n="23" facs="unknown:027655_0027_0FD569A30947BB80"/>
                      <speaker>FREDERIC</speaker>
                      <p>This is always the way with you happy fellows, who are favourites with the women; you <gap reason="illegible: indecipherable" extent="1 word">
                            <desc>〈◊〉</desc>
@@ -888,7 +888,7 @@ entrusted the money with a Spaniard, who will make the best bargain he can for u
                      <p>
                         <stage>(Reads.)</stage>
 "As you have now the means of freedom in your power, be at the north garden gate at ten o'clock, and when you hear me sing, you will be sure all is safe, and that you may enter without danger; do not fail to come, I have some pleasant intelligence to
-<pb n="24" facs="tcp:027655_0028_0FD569A48AAEAA38"/>
+<pb n="24" facs="unknown:027655_0028_0FD569A48AAEAA38"/>
 communicate."
 Yes, I will go and acquaint her with the real state of my heart.</p>
                   </sp>
@@ -923,7 +923,7 @@ Yes, I will go and acquaint her with the real state of my heart.</p>
                   <sp>
                      <speaker>ZORIANA.</speaker>
                      <p>Sweet Olivia, chide me not; for tho' I'm fixed to leave this place, and embrace Christianity, I cannot
-<pb n="25" facs="tcp:027655_0029_0FD569A8B0C8E058"/>
+<pb n="25" facs="unknown:027655_0029_0FD569A8B0C8E058"/>
 but weep when I think what my poor father will suf<g ref="char:EOLhyphen"/>fer. Methinks I should stay to console him for the loss of you.</p>
                   </sp>
                   <sp>
@@ -963,7 +963,7 @@ but weep when I think what my poor father will suf<g ref="char:EOLhyphen"/>fer. 
                      </lg>
                   </sp>
                   <stage>
-                     <pb n="26" facs="tcp:027655_0030_0FD569A9CCAFECC0"/>
+                     <pb n="26" facs="unknown:027655_0030_0FD569A9CCAFECC0"/>
                      <hi>Enter</hi> HENRY,</stage>
                   <sp>
                      <speaker>HENRY.</speaker>
@@ -1004,7 +1004,7 @@ but weep when I think what my poor father will suf<g ref="char:EOLhyphen"/>fer. 
                      <p>Yes; Henry, your forsaken Olivia.</p>
                   </sp>
                   <sp>
-                     <pb n="27" facs="tcp:027655_0031_0FD569AB6D9A1A50"/>
+                     <pb n="27" facs="unknown:027655_0031_0FD569AB6D9A1A50"/>
                      <speaker>HENRY.</speaker>
                      <p>Oh my beloved! is it possible that I see you here in bondage; where is your father?</p>
                   </sp>
@@ -1032,7 +1032,7 @@ but weep when I think what my poor father will suf<g ref="char:EOLhyphen"/>fer. 
                   <sp>
                      <speaker>ZORIANA.</speaker>
                      <p>Think not so meanly of me, as to suppose I live but for myself—that I loved your Henry, I can without a blush avow, but, 'twas a love so pure, that to see him happy, will gratify my utmost wish; I still rejoice that
-<pb n="28" facs="tcp:027655_0032_0FD569B0152934B0"/>
+<pb n="28" facs="unknown:027655_0032_0FD569B0152934B0"/>
 I've procured his liberty, you, shall with him, em<g ref="char:EOLhyphen"/>brace the opportunity, and be henceforth as blest—
 <stage>(aside)</stage>
 as I am wretched.</p>
@@ -1076,7 +1076,7 @@ as I am wretched.</p>
                      <p>Gracious heaven forbid!</p>
                   </sp>
                   <sp>
-                     <pb n="29" facs="tcp:027655_0033_0FD569B1B1B3B1A0"/>
+                     <pb n="29" facs="unknown:027655_0033_0FD569B1B1B3B1A0"/>
                      <speaker>OLIVIA.</speaker>
                      <p>Who then could deprecate your father's wrath. Yourself, my Henry, and my dearest father, all, all, would fall a sacrifice.</p>
                   </sp>
@@ -1107,7 +1107,7 @@ as I am wretched.</p>
                         </gap> to meet your father's anger; but indeed it will not; the thought of standing forth the preserver of the dear author of my being, of the man who loves me next to heaven, of the friend who could sacrifice her own happiness to mine, would fill my soul with such delight, that even death, in its most horrid shape, could not disturb its tranquility,</p>
                   </sp>
                   <sp>
-                     <pb n="30" facs="tcp:027655_0034_0FD569B38A24C188"/>
+                     <pb n="30" facs="unknown:027655_0034_0FD569B38A24C188"/>
                      <speaker>ZORIANA<g ref="char:punc">▪</g>
                      </speaker>
                      <p>But, can you suppose your father, and your lover,</p>
@@ -1127,7 +1127,7 @@ as I am wretched.</p>
                   </sp>
                   <stage>Exit into the alcove.</stage>
                   <stage>
-                     <pb facs="tcp:027655_0035_0FD569B5083180F0"/>
+                     <pb facs="unknown:027655_0035_0FD569B5083180F0"/>
                      <hi>Enter</hi> FETNAH.</stage>
                   <sp>
                      <lg>
@@ -1155,7 +1155,7 @@ as I am wretched.</p>
                   <sp>
                      <speaker>FETNAH.</speaker>
                      <p>And take me to that charming place, where there are no bolts and bars; no mutes and guards; no bow-strings
-<pb n="32" facs="tcp:027655_0036_0FD569B88D6D31E0"/>
+<pb n="32" facs="unknown:027655_0036_0FD569B88D6D31E0"/>
 and scymetars.—Oh! it must be a dear delight<g ref="char:EOLhyphen"/>ful country, where women do just what they please.</p>
                   </sp>
                   <sp>
@@ -1197,7 +1197,7 @@ Oh dear! what a charming man. I do wish he would run away with me.</p>
                      <p>Your letters said so.</p>
                   </sp>
                   <sp>
-                     <pb n="33" facs="tcp:027655_0037_0FD569B98AB19838"/>
+                     <pb n="33" facs="unknown:027655_0037_0FD569B98AB19838"/>
                      <speaker>FETNAH.</speaker>
                      <p>Letters!</p>
                   </sp>
@@ -1246,7 +1246,7 @@ And there's like to be a greater if you knew all.</p>
                      <p>To be sure I will, that's the very thing I wish.</p>
                   </sp>
                   <sp>
-                     <pb n="34" facs="tcp:027655_0038_0FD569BB3A2D3FE0"/>
+                     <pb n="34" facs="unknown:027655_0038_0FD569BB3A2D3FE0"/>
                      <speaker>FREDERIC.</speaker>
                      <p>Oh! thou sweet, bewitching, little—</p>
                   </sp>
@@ -1286,7 +1286,7 @@ And there's like to be a greater if you knew all.</p>
 Now, good-bye to poor Pil-garlick.</p>
                   </sp>
                   <sp>
-                     <pb n="35" facs="tcp:027655_0039_0FD569BF86262860"/>
+                     <pb n="35" facs="unknown:027655_0039_0FD569BF86262860"/>
                      <speaker>FETNAH.</speaker>
                      <p>
                         <stage>(Pretending to recover.)</stage>
@@ -1331,7 +1331,7 @@ Well said, woman.</p>
 Well said, again.</p>
                   </sp>
                   <sp>
-                     <pb n="36" facs="tcp:027655_0040_0FD569C048AE1B60"/>
+                     <pb n="36" facs="unknown:027655_0040_0FD569C048AE1B60"/>
                      <speaker>FETNAH.</speaker>
                      <p>But, the moment they saw me, they seized me, and would have forced me away, had not this gallant stranger run to my assistance—they, thinking they were pursued by many, relinquished their hold, and left me fainting in the stranger's arms.</p>
                   </sp>
@@ -1379,7 +1379,7 @@ Heaven bless her invention!</p>
                      <p>Go to your apartment.</p>
                   </sp>
                   <sp>
-                     <pb n="37" facs="tcp:027655_0041_0FD569C2AB20D138"/>
+                     <pb n="37" facs="unknown:027655_0041_0FD569C2AB20D138"/>
                      <speaker>FETNAH.</speaker>
                      <p>Oh dear! if he should ask him any questions when I am gone, what will become of him.
 <stage>Exit.</stage>
@@ -1412,7 +1412,7 @@ Heaven bless her invention!</p>
                      <speaker>FREDERIC.</speaker>
                      <p>The traitor is on the point of betraying us.—I must if possible prevent his seeing the Dey.
 <stage>[<hi>Runs to
-<pb n="38" facs="tcp:027655_0042_0FD569C6D166E908"/>
+<pb n="38" facs="unknown:027655_0042_0FD569C6D166E908"/>
 Ben Hassan with all the appearance of violent terror.</hi>]</stage>
 Oh! my dear friend Hassan, for heaven's sake what brought you here; don't you know the Dey is so highly offended with you, that he vows to have you impaled alive.</p>
                   </sp>
@@ -1446,7 +1446,7 @@ Oh! my dear friend Hassan, for heaven's sake what brought you here; don't you kn
                      <p>Oh dear! Oh dear!</p>
                   </sp>
                   <sp>
-                     <pb n="39" facs="tcp:027655_0043_0FD569C7C9035B98"/>
+                     <pb n="39" facs="unknown:027655_0043_0FD569C7C9035B98"/>
                      <speaker>FREDERIC.</speaker>
                      <p>Make haste my dear friend; run home as fast as possible; hide your treasure, and keep out of the way.</p>
                   </sp>
@@ -1478,7 +1478,7 @@ Oh! my dear friend Hassan, for heaven's sake what brought you here; don't you kn
 —well it does not signify, that word slave does so stick in my throat—I wonder how any woman of spirit can gulp it down.</p>
                   </sp>
                   <sp>
-                     <pb n="40" facs="tcp:027655_0044_0FD569C957BD1E30"/>
+                     <pb n="40" facs="unknown:027655_0044_0FD569C957BD1E30"/>
                      <speaker>SELIMA.</speaker>
                      <p>We are accustomed to it.</p>
                   </sp>
@@ -1518,7 +1518,7 @@ Oh! my dear friend Hassan, for heaven's sake what brought you here; don't you kn
                      <p>Who sent you here?</p>
                   </sp>
                   <sp>
-                     <pb n="41" facs="tcp:027655_0045_0FD569CD6216C6B0"/>
+                     <pb n="41" facs="unknown:027655_0045_0FD569CD6216C6B0"/>
                      <speaker>SADI.</speaker>
                      <p>I was told to take these to our master's son, young Soliman. But some how, in the turnings and wind<g ref="char:EOLhyphen"/>ings in this great house, I believe I have lost myself.</p>
                   </sp>
@@ -1548,7 +1548,7 @@ Now, if by means of these cloaths, I can get out of the palace, I'll seek the ch
                <trailer>END OF THE SECOND ACT.</trailer>
             </div>
             <div n="3" type="act">
-               <pb n="42" facs="tcp:027655_0046_0FD569CF14A08098"/>
+               <pb n="42" facs="unknown:027655_0046_0FD569CF14A08098"/>
                <head>ACT III.</head>
                <div n="1" type="scene">
                   <head>SCENE I. A kind of Grotto.</head>
@@ -1574,7 +1574,7 @@ mum, don't be afraid, they are no tell tales—only when they are trusted too fa
                   <sp>
                      <speaker>FREDERIC.</speaker>
                      <p>I don't fear him, he has an honest heart, hid under an appearance of ignorance, it grows duskish, Sebas<g ref="char:EOLhyphen"/>tian,
-<pb n="43" facs="tcp:027655_0047_0FD569D02FEEBC98"/>
+<pb n="43" facs="unknown:027655_0047_0FD569D02FEEBC98"/>
 have we good centinals placed at the entrance of the cell?</p>
                   </sp>
                   <sp>
@@ -1617,7 +1617,7 @@ have we good centinals placed at the entrance of the cell?</p>
 There is my dear Christian, but I won't discover myself, till I try if he will know me.</p>
                   </sp>
                   <sp>
-                     <pb n="44" facs="tcp:027655_0048_0FD569D1881C5EC8"/>
+                     <pb n="44" facs="unknown:027655_0048_0FD569D1881C5EC8"/>
                      <speaker>HENRY.</speaker>
                      <p>Who are you, young man<g ref="char:punc">▪</g> and for what purpose were you loitering about this place.</p>
                   </sp>
@@ -1655,7 +1655,7 @@ There is my dear Christian, but I won't discover myself, till I try if he will k
                   </sp>
                   <stage>(They rush on Fetnah, in her struggle her turban falls off—she breaks from them, and runs to Frederic.)</stage>
                   <sp>
-                     <pb n="45" facs="tcp:027655_0049_0FD569D68C4D3F08"/>
+                     <pb n="45" facs="unknown:027655_0049_0FD569D68C4D3F08"/>
                      <speaker>FETNAH.</speaker>
                      <p>Save me, dear Christian! its only poor little Fet<g ref="char:EOLhyphen"/>nah.</p>
                   </sp>
@@ -1694,7 +1694,7 @@ There is my dear Christian, but I won't discover myself, till I try if he will k
                      </p>
                   </sp>
                   <sp>
-                     <pb n="46" facs="tcp:027655_0050_0FD569D78B695B30"/>
+                     <pb n="46" facs="unknown:027655_0050_0FD569D78B695B30"/>
                      <speaker>SEBASTIAN.</speaker>
                      <p>Well, here am I, Sebastian; who have been a slave, two years, six months, a fortnight and three days, and have, all that time worked in the garden of the Alcaide, who has twelve wives, thirty concu<g ref="char:EOLhyphen"/>binus, and two pretty daughters; and yet not one of the insensible husseys ever took a fancy to me.—'Tis dev'lish hard—that when I go home, I can't say to my honoured father, the barber, and to my rever<g ref="char:EOLhyphen"/>end mother, the laundress—this is the beautiful prin<g ref="char:EOLhyphen"/>cess, who fell in love with me; jumped over the gar<g ref="char:EOLhyphen"/>den-wall of his serene holiness her father, and ran away with your dutiful son, Sebastian—then, falling on my knees—thus.</p>
                   </sp>
@@ -1715,7 +1715,7 @@ There is my dear Christian, but I won't discover myself, till I try if he will k
                      <p>Treat her with all imaginable respect:—Go, my good Sebastian; be diligent, silent, and expeditious. You, my dear Fetnah, I will place in an inner part of the grotto, where you will be safe, while we effect the escape of Olivia's father.</p>
                   </sp>
                   <sp>
-                     <pb n="47" facs="tcp:027655_0051_0FD569D93A679578"/>
+                     <pb n="47" facs="unknown:027655_0051_0FD569D93A679578"/>
                      <speaker>FETNAH.</speaker>
                      <p>What, shut me up!—Do you take me for a cow<g ref="char:EOLhyphen"/>ard?</p>
                   </sp>
@@ -1743,7 +1743,7 @@ There is my dear Christian, but I won't discover myself, till I try if he will k
                            </l>
                            <l>So I flirted with Flora, with Cecily and Di.</l>
                            <l>
-                              <pb n="48" facs="tcp:027655_0052_0FD569DCB2D7F208"/>But they too, were frumpish and cold.</l>
+                              <pb n="48" facs="unknown:027655_0052_0FD569DCB2D7F208"/>But they too, were frumpish and cold.</l>
                            <l>Says Diego, one day, what ails you I pray?</l>
                            <l>I fetch'd a deep sigh—Diego, says I,</l>
                            <l>Women hate me.—Oh! how I adore 'em.</l>
@@ -1792,7 +1792,7 @@ There is my dear Christian, but I won't discover myself, till I try if he will k
                   </sp>
                </div>
                <div n="2" type="scene">
-                  <pb n="49" facs="tcp:027655_0053_0FD569DFF190BC68"/>
+                  <pb n="49" facs="unknown:027655_0053_0FD569DFF190BC68"/>
                   <head>SCENE II. Ben Hassan's House.</head>
                   <stage>REBECCA <hi>and</hi> AUGUSTUS.</stage>
                   <sp>
@@ -1824,7 +1824,7 @@ ever may you preserve that indepen<g ref="char:EOLhyphen"/>dent spirit, that dar
                   <sp>
                      <speaker>AUGUSTUS.</speaker>
                      <p>Fear, mother, what should I be afraid of? an't I an American, and I am sure you have often told me,
-<pb n="50" facs="tcp:027655_0054_0FD569E14D5E64D0"/>
+<pb n="50" facs="unknown:027655_0054_0FD569E14D5E64D0"/>
 in a right cause, the Americans did not fear any thing.</p>
                      <stage>
                         <hi>Enter</hi> HASSAN.</stage>
@@ -1861,7 +1861,7 @@ in a right cause, the Americans did not fear any thing.</p>
                      <p>Slaves, Sir; many of whom I have seen in the train of the Dey.</p>
                   </sp>
                   <sp>
-                     <pb n="51" facs="tcp:027655_0055_0FD569E2D2677CA0"/>
+                     <pb n="51" facs="unknown:027655_0055_0FD569E2D2677CA0"/>
                      <speaker>BEN HASSAN.</speaker>
                      <p>Vhat do they vant?</p>
                   </sp>
@@ -1904,7 +1904,7 @@ in a right cause, the Americans did not fear any thing.</p>
                   <sp>
                      <speaker>SEBASTIAN.</speaker>
                      <p>I thought I hear'd voices this way; now my friends, the lady we seek, is a most lovely, amiable creature,
-<pb n="52" facs="tcp:027655_0056_0FD569E5188B0138"/>
+<pb n="52" facs="unknown:027655_0056_0FD569E5188B0138"/>
 whom we must accost with respect, and convey hence in safety—she is a woman of family and fortune, and is highly pleased with my person and abillities; let us therefore, search every cranny of the house till we find her; she may not recollect me directly, but ne<g ref="char:EOLhyphen"/>ver mind, we will carry her away first, and assure her of her safety afterwards; go search the rooms in that wing, I will myself, investigate the apartments on this side.
 <stage>(Exit slaves.)</stage>
 Well I have made these com<g ref="char:EOLhyphen"/>rades of mine, believe I am a favoured lover, in pur<g ref="char:EOLhyphen"/>suit of a kind mistress, that's something for them to talk of; and I believe many a fine gentleman is talk<g ref="char:EOLhyphen"/>ed of for love affairs, that has as little foundation; and so one is but talked of, as a brave or gallant man, what signifies whether there is any foundation for it or no;—and yet, hang it, who knows but I may prove it a reality, if I release this lady from captivity, she may cast an eye of affection,—may—why I dare say she will.—I am but poor Sebastian, the barber of Cor<g ref="char:EOLhyphen"/>dova's son, 'tis true; but I am well made, very well made; my leg is not amiss,—then I can make a graceful bow; and as to polite compliments, let me but find her, and I'll shew them what it is to have a pretty person, a graceful air<g ref="char:punc">▪</g> and a smooth tongue.— But I must search this apartment.
@@ -1920,7 +1920,7 @@ Well I have made these com<g ref="char:EOLhyphen"/>rades of mine, believe I am a
                   <sp>
                      <speaker>BEN HASSAN.</speaker>
                      <p>I think now, they vill hardly know me, in my vife's cloaths; I could not find a turban, but this head dress of Rebecca's vill do better, because it vill hide my face—but, how shall I hide my monies:
-<pb n="53" facs="tcp:027655_0057_0FD569E9102D5B80"/>
+<pb n="53" facs="unknown:027655_0057_0FD569E9102D5B80"/>
 I've got a vast deal, in bills of exchange, and all kinds of paper; if I can but get safe off with this book in my pocket. I shall have enough to keep me easy as long as I live.
 <stage>(Puts it in his pocket and drops it.)</stage>
 Oh! this is a judgment fallen upon me for betraying the Christians.
@@ -1954,7 +1954,7 @@ Oh lord! here they come.
                      <p>It is for you, I fear, more than for myself, I do not think you are safe with me, go, my beloved, re<g ref="char:EOLhyphen"/>turn to your master.—</p>
                   </sp>
                   <sp>
-                     <pb n="54" facs="tcp:027655_0058_0FD569EB73F11A98"/>
+                     <pb n="54" facs="unknown:027655_0058_0FD569EB73F11A98"/>
                      <speaker>AUGUSTUS.</speaker>
                      <p>What, go and leave my mother, without a pro<g ref="char:EOLhyphen"/>tector?</p>
                   </sp>
@@ -1977,7 +1977,7 @@ Oh! hea<g ref="char:EOLhyphen"/>ven! is it possible! bills, to the amount of my 
                   <stage>Exit.</stage>
                </div>
                <div n="4" type="scene">
-                  <pb n="55" facs="tcp:027655_0059_0FD569EC92688E10"/>
+                  <pb n="55" facs="unknown:027655_0059_0FD569EC92688E10"/>
                   <head>SCENE IV. Dey's Garden.</head>
                   <sp>
                      <speaker>ZORIANA</speaker>
@@ -2007,7 +2007,7 @@ Oh! hea<g ref="char:EOLhyphen"/>ven! is it possible! bills, to the amount of my 
                      </lg>
                   </sp>
                   <stage>
-                     <pb n="56" facs="tcp:027655_0060_0FD569EE40B41D60"/>
+                     <pb n="56" facs="unknown:027655_0060_0FD569EE40B41D60"/>
                      <hi>Enter</hi> HENRY.</stage>
                   <sp>
                      <speaker>HENRY.</speaker>
@@ -2042,7 +2042,7 @@ Oh! hea<g ref="char:EOLhyphen"/>ven! is it possible! bills, to the amount of my 
 I pray tell me why you brought me from the house of the good Ben Hassan, and where you design to take me.</p>
                   </sp>
                   <sp>
-                     <pb n="57" facs="tcp:027655_0061_0FD569EFC705A350"/>
+                     <pb n="57" facs="unknown:027655_0061_0FD569EFC705A350"/>
                      <speaker>SEBASTIAN.</speaker>
                      <p>Oh! thou adorable, be not offended at my presump<g ref="char:EOLhyphen"/>tion, but having an opportunity of leaving this place of captivity, I was determined to take you with me, and prevent your falling into the power of the Dey, who would no doubt, be in raptures, should he behold your exquisite beauty.—Sweet innocent charmer<g ref="char:punc">▪</g> per<g ref="char:EOLhyphen"/>mit your slave to remove the envious curtain that shades your enchanting visage.</p>
                   </sp>
@@ -2065,7 +2065,7 @@ Why, what in the devil's name, have we here?</p>
                      <p>These fifty years at least, by the length of your beard.</p>
                   </sp>
                   <sp>
-                     <pb n="58" facs="tcp:027655_0062_0FD569F4314017E0"/>
+                     <pb n="58" facs="unknown:027655_0062_0FD569F4314017E0"/>
                      <speaker>FREDERIC.</speaker>
                      <stage>—without.</stage>
                      <p>Sebastian—bring the lady to the water side, and wait till we join you.</p>
@@ -2106,7 +2106,7 @@ Why, what in the devil's name, have we here?</p>
                   </sp>
                </div>
                <div n="6" type="scene">
-                  <pb n="59" facs="tcp:027655_0063_0FD569F59D6498E0"/>
+                  <pb n="59" facs="unknown:027655_0063_0FD569F59D6498E0"/>
                   <head>SCENE VI. Inside of the Palace.</head>
                   <stage>MULEY <hi>and</hi> MUSTAPHA.</stage>
                   <sp>
@@ -2141,7 +2141,7 @@ my daughter too he has seduced from her duty; but he shall not escape my vengean
 —Rash old man—how have you dared to tempt your fate again<g ref="char:punc">▪</g> do you not know the torments that await the Christian, who at<g ref="char:EOLhyphen"/>tempts to rob the haram of a Musselman?</p>
                   </sp>
                   <sp>
-                     <pb n="60" facs="tcp:027655_0064_0FD569F70D8B0698"/>
+                     <pb n="60" facs="unknown:027655_0064_0FD569F70D8B0698"/>
                      <speaker>CONSTANT.</speaker>
                      <p>I know you have the power to end my being—but that's a period I more wish than fear.</p>
                   </sp>
@@ -2174,7 +2174,7 @@ my daughter too he has seduced from her duty; but he shall not escape my vengean
                      <p>Stay, Muley, stay—recall your cruel sentence.</p>
                   </sp>
                   <sp>
-                     <pb n="61" facs="tcp:027655_0065_0FD569F8B7364700"/>
+                     <pb n="61" facs="unknown:027655_0065_0FD569F8B7364700"/>
                      <speaker>MULEY.</speaker>
                      <p>Olivia here; is it possible?</p>
                   </sp>
@@ -2206,7 +2206,7 @@ my daughter too he has seduced from her duty; but he shall not escape my vengean
                   </sp>
                   <stage>Exit Mustapha.</stage>
                   <sp>
-                     <pb n="62" facs="tcp:027655_0066_0FD52451CC7627B0"/>
+                     <pb n="62" facs="unknown:027655_0066_0FD52451CC7627B0"/>
                      <speaker>OLIVIA.</speaker>
                      <p>Now teach me to secure their lives and freedom, and my last breath shall bless you.</p>
                   </sp>
@@ -2243,7 +2243,7 @@ my daughter too he has seduced from her duty; but he shall not escape my vengean
                   <sp>
                      <speaker>OLIVIA.</speaker>
                      <p>On what a fearful precipice I stand; to go forward is ruin, shame and infamy; to recede is to pronounce
-<pb n="63" facs="tcp:027655_0067_0FD569FC9B664840"/>
+<pb n="63" facs="unknown:027655_0067_0FD569FC9B664840"/>
 sentence of death upon my father, and my adored Henry. Oh insupportable!—there is one way, and only one, by which I can fulfiill my promise to the Dey, preserve my friends and not abjure my faith.— Source of my being, thou can'st read the heart which thou hast been pleased to try in the school of adversity, pardon the weakness of an erring mortal—if rather than behold a father perish;—if, rather than devote his friends to death, I cut the thread of my existence, and rush unbidden to thy presence.—Yes, I will to the mosque, perform my promise, preserve the valu<g ref="char:EOLhyphen"/>ed lives of those I love; then sink at once into the silent grave, and bury all my sorrows in oblivion.</p>
                   </sp>
                   <stage>Exit.</stage>
@@ -2274,7 +2274,7 @@ sentence of death upon my father, and my adored Henry. Oh insupportable!—there
                      <speaker>OLIVIA.</speaker>
                      <p>My Henry—O my dear father?—pray excuse these tears.</p>
                      <stage>
-                        <pb n="64" facs="tcp:027655_0068_0FD56A0A0D628B50"/>
+                        <pb n="64" facs="unknown:027655_0068_0FD56A0A0D628B50"/>
                         <hi>Enter</hi> MUSTAPHA.</stage>
                      <p>Great sir, the mosque is prepared, and the priest waits your pleasure.</p>
                   </sp>
@@ -2309,7 +2309,7 @@ sentence of death upon my father, and my adored Henry. Oh insupportable!—there
                      <p>Her friends are free already;—but for herself she voluntarily remains with me.</p>
                   </sp>
                   <sp>
-                     <pb n="65" facs="tcp:027655_0069_0FD569FE1EC66718"/>
+                     <pb n="65" facs="unknown:027655_0069_0FD569FE1EC66718"/>
                      <speaker>REBECCA.</speaker>
                      <p>Can you unmoved, behold her anguish;—release her Muley—name but the sum that will pay her ran<g ref="char:EOLhyphen"/>som, 'tis yours.</p>
                   </sp>
@@ -2340,7 +2340,7 @@ sentence of death upon my father, and my adored Henry. Oh insupportable!—there
                      <p>New-York is my native place; there did I spend the dear delightful days of childhood, and there alas, I drain'd the cup of deep affliction, to the very dregs.</p>
                   </sp>
                   <sp>
-                     <pb n="66" facs="tcp:027655_0070_0FD56A0B68710AE8"/>
+                     <pb n="66" facs="unknown:027655_0070_0FD56A0B68710AE8"/>
                      <speaker>CONSTANT.</speaker>
                      <p>My heart is strangely interested—dearest lady will you impart to us your tale of sorrow, that we may mourn with one who feels so much for us.</p>
                   </sp>
@@ -2363,7 +2363,7 @@ sentence of death upon my father, and my adored Henry. Oh insupportable!—there
                   <sp>
                      <speaker>REBECCA.</speaker>
                      <p>About a year since I heard a rumour that my hus<g ref="char:EOLhyphen"/>band was still alive; full of the fond hope of again be<g ref="char:EOLhyphen"/>holding
-<pb n="67" facs="tcp:027655_0071_0FD569FF8EA15C80"/>
+<pb n="67" facs="unknown:027655_0071_0FD569FF8EA15C80"/>
 him, I, with my son embarked for England; but before we reached the coast we were captured by an Algerine.</p>
                   </sp>
                   <sp>
@@ -2395,7 +2395,7 @@ him, I, with my son embarked for England; but before we reached the coast we wer
                      <p>In the battle you mention, I was indeed severely wounded, nay, left for dead in the field; there, my faithful servant found me, when some remaining signs of life encourag'd him to attempt my recovery, and by his unremitting care I was at length restored; my first returning thought was fixed on my Rebecca, but after repeated enquiries all I could hear was that your father was dead and yourself and child removed far<g ref="char:EOLhyphen"/>ther from the seat of war. Soon after, I was told you had fallen a martyr to grief for my supposed loss.— But see my love, our daughter, our dear Olivia; hea<g ref="char:EOLhyphen"/>ven preserved her to be my comfertor.</p>
                   </sp>
                   <sp>
-                     <pb n="68" facs="tcp:027655_0072_0FD56A1094C49AC8"/>
+                     <pb n="68" facs="unknown:027655_0072_0FD56A1094C49AC8"/>
                      <speaker>OLIVIA</speaker>
                      <stage>—(Kneeling and kissing Rebecca.)</stage>
                      <p>My mother, blessed word; Oh! do I live to say I have a mother.</p>
@@ -2426,7 +2426,7 @@ him, I, with my son embarked for England; but before we reached the coast we wer
 <stage>—(hastily)</stage>
                      </stage>
                      <p>Arm, mighty sir—the slaves throughout Algiers have mutinied—they bear down all before them—this
-<pb n="69" facs="tcp:027655_0073_0FD56A02B06CAEC8"/>
+<pb n="69" facs="unknown:027655_0073_0FD56A02B06CAEC8"/>
 way they come—they say, if all the Christian slaves are not immediately released, they'll raze the city.</p>
                   </sp>
                   <sp>
@@ -2469,7 +2469,7 @@ way they come—they say, if all the Christian slaves are not immediately releas
                      <p>Bounteous heaven! and am I then restored to more—much more than life—my Rebecca! my chil<g ref="char:EOLhyphen"/>dren!—Oh! this joy is more than I can bear.</p>
                   </sp>
                   <stage>
-                     <pb n="70" facs="tcp:027655_0074_0FD56A122CC797B0"/>
+                     <pb n="70" facs="unknown:027655_0074_0FD56A122CC797B0"/>
                      <hi>Enter</hi> FREDERIC, FETNAH, SEBASTIAN, BEN HAS<g ref="char:EOLhyphen"/>SAN, SLAVES, <hi>&amp;c.</hi>
                   </stage>
                   <sp>
@@ -2501,7 +2501,7 @@ way they come—they say, if all the Christian slaves are not immediately releas
                      <p>Ben Hassan, your avarice, treachery and cruelty should be severely punished; for, if any one deserves slavery, it is he who could raise his own fortune on the miseries of others.</p>
                   </sp>
                   <sp>
-                     <pb n="71" facs="tcp:027655_0075_0FD56A03CA7A8690"/>
+                     <pb n="71" facs="unknown:027655_0075_0FD56A03CA7A8690"/>
                      <speaker>BEN HASSAN.</speaker>
                      <p>Oh! that I was but crying old cloaths, in the dir<g ref="char:EOLhyphen"/>tiest alley in London.</p>
                   </sp>
@@ -2532,7 +2532,7 @@ way they come—they say, if all the Christian slaves are not immediately releas
                      <p>Henceforward, then, I will reject all power but such as my united friends shall think me incapable of abus<g ref="char:EOLhyphen"/>ing. Hassan, you are free—to you my generous con<g ref="char:EOLhyphen"/>querors what can I say?</p>
                   </sp>
                   <sp>
-                     <pb n="72" facs="tcp:027655_0076_0FD56A138AD698E0"/>
+                     <pb n="72" facs="unknown:027655_0076_0FD56A138AD698E0"/>
                      <speaker>HENRY.</speaker>
                      <p>Nothing, but let your future conduct prove how much you value the welfare of your fellow-creatures-to-morrow, we shall leave your capital, and return to our native land, where liberty has established her court—where the warlike Eagle extends his glittering pinions in the sunshine of prosperity.</p>
                   </sp>
@@ -2545,7 +2545,7 @@ way they come—they say, if all the Christian slaves are not immediately releas
             <trailer>THE END.</trailer>
          </div>
          <div type="epilogue">
-            <pb facs="tcp:027655_0077_0FD56A06231B2EC0"/>
+            <pb facs="unknown:027655_0077_0FD56A06231B2EC0"/>
             <head>EPILOGUE.</head>
             <byline>WRITTEN AND SPOKEN BY MRS. ROWSON.</byline>
             <sp>
@@ -2586,7 +2586,7 @@ way they come—they say, if all the Christian slaves are not immediately releas
                   <l>We hold in silken chains—the lordly tyrant man.</l>
                </lg>
                <lg>
-                  <pb facs="tcp:027655_0078_0FD56A16EE86A500"/>
+                  <pb facs="unknown:027655_0078_0FD56A16EE86A500"/>
                   <l>But pray, forgive this flippancy—indeed,</l>
                   <l>Of all your clemency I stand in need.</l>
                   <l>To own the truth, the scenes this night display'd,</l>
